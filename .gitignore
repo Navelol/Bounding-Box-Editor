@@ -1,0 +1,25 @@
+# Unity Specific
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+MemoryCaptures/
+
+# Visual Studio
+.vscode/
+.vs/
+*.csproj
+*.sln
+*.userprefs
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Unity Asset Store Tools
+/Assets/AssetStoreTools*
+
+# Ignore .unitypackage files if they are not meant to be included
+*.unitypackage
